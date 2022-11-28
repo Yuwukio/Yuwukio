@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yuwukio
 - 👀 I’m interested in ... your mom
-- 🌱 I’m currently learning ... how to die  
+- 🌱 I’m currently learning ... python 
 - 💞️ I’m looking to collaborate on ...[redacted]
 - 📫 How to reach me ...twt@yuwukio 
 
